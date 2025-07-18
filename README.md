@@ -67,7 +67,7 @@ Keystroke Dynamics Authentication is an advanced security solution for fintech a
    streamlit run streamlit_app.py
    ```
 ## Try here 
-(https://itzlovi-keystroke-dynamics-authentication-streamlit-app-faflst.streamlit.app/)[KeyStroke]
+https://itzlovi-keystroke-dynamics-authentication-streamlit-app-faflst.streamlit.app/
 
 
 ## 📬 Contact
